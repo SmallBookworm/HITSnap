@@ -1,0 +1,22 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "dependencies": {
+    "antd": "^0.12.13"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  }
+}
